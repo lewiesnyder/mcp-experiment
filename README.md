@@ -1,5 +1,5 @@
 # MCP Experiment
-A simple MCP server for various experiments
+A simple MCP server for various experiments like a sql agent
 
 ## Notes
 * Download the the [chinook sample database](https://www.sqlitetutorial.net/sqlite-sample-database/) to `./dist/chinook.db`
